@@ -1,6 +1,8 @@
 # Hey, my name is Hai! 👋
 
-# ⚠️ WARNING: Terminating a critical process like, `svchost.exe` may sometimes break essential Windows features. Use with extreme caution and only if you know what you’re doing !!
+## ⚠️ WARNING: Terminating a critical process like, `svchost.exe` may sometimes break essential Windows features. Use with extreme caution and only if you know what you’re doing !!
+
+What does this script do?: This script terminates a critical system process, svchost.exe, in which triggers a BSOD.
 
 FAQ ❓:
 
